@@ -1,13 +1,13 @@
-Texto circular com efeito
+MERN Dashboard Client
 
 ![FireShot Capture 019 - refine - Build your React-based CRUD applications, without constraint_ - localhost](https://user-images.githubusercontent.com/110235876/222924280-eca2c728-21ef-4a1f-8db5-a0ca6ddcb43e.png)
 
-## Texto circular com efeito
+## MERN Dashboard Client
 
-**O texto circular com efeito na hora da rolagem está na moda atualmente.**
+**Aplicação Fullstack de um dashboard**
 
 ## Features Usadas
-**Next.js** - **Compontents** - **Hooks** - **HTML** - **CSS** - **Javascript** - **JQuery**
+**React.js** - **Node.js** - **Express** - **MongoDB** - **CSS** - **Javascript** - **Components**
 
 ## Como Instalar
 **1.** Baixe o Visual Studio Code
