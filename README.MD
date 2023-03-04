@@ -7,7 +7,7 @@ MERN Dashboard Client
 **Aplicação Fullstack de um dashboard**
 
 ## Features Usadas
-**React.js** - **Node.js** - **Express** - **MongoDB** - **CSS** - **Javascript** - **Components**
+**React.js** - **Node.js** - **Express** - **MongoDB** - **CSS** - **Typescript** - **Components**
 
 ## Como Instalar
 **1.** Baixe o Visual Studio Code
