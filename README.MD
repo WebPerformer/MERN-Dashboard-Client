@@ -1,53 +1,30 @@
-# client
+MERN Dashboard Client
 
-<div align="center" style="margin: 30px;">
-    <a href="https://refine.dev">
-    <img src="https://refine.ams3.cdn.digitaloceanspaces.com/refine_logo.png"  align="center" />
-    </a>
-</div>
-<br/>
+![FireShot Capture 019 - refine - Build your React-based CRUD applications, without constraint_ - localhost](https://user-images.githubusercontent.com/110235876/222924280-eca2c728-21ef-4a1f-8db5-a0ca6ddcb43e.png)
 
-This [refine](https://github.com/pankod/refine) project was generated with [superplate](https://github.com/pankod/refine).
+## MERN Dashboard Client
 
-## Getting Started
+**Aplicação Fullstack de um dashboard**
 
-**refine** is a React-based framework for building data-intensive applications in no time ✨
+## Features Usadas
+**React.js** - **Node.js** - **Express** - **MongoDB** - **CSS** - **Typescript** - **Components**
 
-Refine offers lots of out-of-the box functionality for rapid development, without compromising extreme customizability. Use-cases include, but are not limited to admin panels, B2B applications and dashboards.
+## Como Instalar
+**1.** Baixe o Visual Studio Code
 
-## Available Scripts
+**2.** Baixe o Node.js
 
-### Running the development server.
+**3.** Baixe os arquivos do meu Github
 
-```bash
-    npm run dev
-```
+**4.** Abre os arquivos no seu Visual Studio Code
 
-### Building for production.
+**5.** Abra o terminal apertando ***Ctrl + `***
 
-```bash
-    npm run build
-```
+**6.** Escreva ou copie o seguinte código ***npm install***
 
-### Running the production server.
+**5.** Assim que as dependencias terminarem de instalar, execute o código ***npm run dev***
 
-```bash
-    npm run start
-```
+**Fique a vontade para fazer alterações.**
 
-## Learn More
-
-To learn more about **refine**, please check out the [Documentation](https://refine.dev/docs)
-
-- **REST Data Provider** [Docs](https://refine.dev/docs/core/providers/data-provider/#overview)
-- **Material UI** [Docs](https://refine.dev/docs/ui-frameworks/mui/tutorial/)
-- **Inferencer** [Docs](https://refine.dev/docs/packages/documentation/inferencer)
-- **Material UI Light/Dark Mode** [Docs](https://refine.dev/docs/ui-frameworks/mui/customization/mui-custom-theme/)
-- **Material UI Custom Theme** [Docs](https://refine.dev/docs/ui-frameworks/mui/customization/mui-custom-theme/)
-- **Custom Layout** [Docs](https://refine.dev/docs/ui-frameworks/mui/customization/mui-custom-layout/)
-- **React Router** [Docs](https://refine.dev/docs/core/providers/router-provider/)
-- **Google Auth Provider** [Docs](https://refine.dev/docs/core/providers/auth-provider/)
-
-## License
-
-MIT
+## Site Online
+(https://next-scroll-effect-circular-text.vercel.app/)
