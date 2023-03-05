@@ -27,4 +27,4 @@ MERN Dashboard Client
 **Fique a vontade para fazer alterações.**
 
 ## Site Online
-(https://next-scroll-effect-circular-text.vercel.app/)
+(https://mern-dashboard-client-omega.vercel.app/)
